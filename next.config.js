@@ -6,8 +6,8 @@ const webpackconfig = require("./webpack.config");
 const IsDevelopment = process.env.NODE_ENV === "development";
 const nextConfig = {
     pageExtensions: ["js", "jsx", "ts", "tsx"],
-    // assetPrefix: "",
-    assetPrefix: IsDevelopment ? "" : "/castalia",
+    assetPrefix: "",
+    //assetPrefix: IsDevelopment ? "" : "/castalia",
 };
 
 module.exports = withPlugins([], {
