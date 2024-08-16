@@ -6,11 +6,6 @@ import MenuItem from "./menuItem";
 
 
 const siderResource: Resource[] = [
-    // {
-    //     name: "最热资源",
-    //     site: [],
-    //     icon: "./images/menu/mine.svg"
-    // },
     ...resource
 ];
 
