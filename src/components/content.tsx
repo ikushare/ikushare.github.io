@@ -57,12 +57,12 @@ const Content = () => {
                         <H2 fontSize="16px" mb="15px">关于</H2>
                         <VStack alignItems="flex-start" fontSize="16px">
                             <Text>
-                                iMyShare
+                                ikushare
                                 {/* Castaila 是一个资源导航网站，精选国内外优质网站，
                                 让每个人都能找到自己需要的资源。如果你有比较好的资源，可以通过下方地址提供给我们。 */}
                             </Text>
                             <Text>
-                            iMyShare(神秘的热心网友)站点旨在记录自己工作、学习和生活点滴的同时，跟广大网友分享优质的互联网资源、软件工具以及实用的互联网小技巧。
+                            ikushare站点旨在记录自己工作、学习和生活点滴的同时，跟广大网友分享优质的互联网资源、软件工具以及实用的互联网小技巧。
                             </Text>
                             {/* <Link
                                 href="https://afterwork-design.github.io"
@@ -81,8 +81,9 @@ const Content = () => {
                                 {/* <a className="linkColor" href="https://github.com/afterwork-design/castalia">castalia | github</a> */}
                             </Text>
                             <Text>
-                                资源推荐入口：
-                                <a className="linkColor" href="https://github.com/afterwork-design/castalia/issues?q=label%3A%E8%B5%84%E6%BA%90%E6%8E%A8%E8%8D%90+">github 上提交 issue</a>
+                                如果你有优质的资源推荐，请发送至邮箱即可
+                                邮箱地址:2697533527@qq.com
+{/*                                 <a className="linkColor" href="https://github.com/afterwork-design/castalia/issues?q=label%3A%E8%B5%84%E6%BA%90%E6%8E%A8%E8%8D%90+">github 上提交 issue</a> */}
                             </Text>
                         </VStack>
                     </Box>
