@@ -7,7 +7,7 @@ const IsDevelopment = process.env.NODE_ENV === "development";
 const nextConfig = {
     pageExtensions: ["js", "jsx", "ts", "tsx"],
     //assetPrefix: "",
-    assetPrefix: IsDevelopment ? "" : "/ikushare",
+    assetPrefix: IsDevelopment ? "" : "/ikushare.github.io",
 };
 
 module.exports = withPlugins([], {
