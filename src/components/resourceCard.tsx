@@ -28,61 +28,6 @@ const ResourceCard: React.FC<Props> = ({
             linkEle.click();
         };
     };
-
-    // const checkBoxChange = () => {
-    //     getDb().then((db) => {
-    //         if (!checked) {
-    //             db.write(myCollectionTableName, site).then((res) => {
-    //                 if (res) {
-    //                     console.log("添加成功");
-    //                     setMyCollection((collection) => ([...collection, site]));
-    //                 } else {
-    //                     console.log("添加失败");
-    //                 }
-    //             });
-    //         } else {
-    //             db.remove(myCollectionTableName, site.name).then((res) => {
-    //                 if (res) {
-    //                     console.log("删除成功");
-    //                     setMyCollection((collection) => {
-    //                         const index = collection.findIndex((item) => item.name === site.name);
-    //                         if (index !== -1) {
-    //                             const newCollection = [...collection];
-    //                             newCollection.splice(index, 1);
-    //                             return newCollection;
-    //                         }
-    //                         return collection;
-    //                     });
-    //                 } else {
-    //                     console.log("删除失败");
-    //                 }
-    //             })
-    //         }
-    //     });
-    // };
-
-    // const deleteFromMyCollection = () => {
-    //     getDb().then((db) => {
-    //         db.remove(myCollectionTableName, site.name).then((res) => {
-    //             if (res) {
-    //                 console.log("删除成功");
-    //                 // setChecked(false);
-    //                 setMyCollection((collection) => {
-    //                     const index = collection.findIndex((item) => item.name === site.name);
-    //                     if (index !== -1) {
-    //                         const newCollection = [...collection];
-    //                         newCollection.splice(index, 1);
-    //                         return newCollection;
-    //                     }
-    //                     return collection;
-    //                 });
-    //             } else {
-    //                 console.log("删除失败");
-    //             }
-    //         })
-    //     })
-    // };
-
     return (
         <RounderBox
             display="flex"
