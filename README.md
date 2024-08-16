@@ -1,5 +1,4 @@
-# [Castalia](https://afterwork-design.github.io/castalia/)
-
+# [Castalia](https://ikushare.github.io)
 不只是设计师的灵感源泉。精选国内外优质网站，让每个人都能找到自己需要的网站。
 
 ## 本地运行
