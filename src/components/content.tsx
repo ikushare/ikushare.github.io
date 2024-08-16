@@ -54,12 +54,12 @@ const Content = () => {
                     height="calc(100vh - 250px)"
                 >
                     <Box flexGrow={1} alignSelf="stretch" pt="100px">
-                        <H6 fontSize="16px" mb="15px">ikushare</H6>
+                        <H1 fontSize="16px" mb="15px">ikushare</H1>
                         <VStack alignItems="flex-start" fontSize="16px">
                             <Text>
 {/*                                 ikushare */}
-                                {/* Castaila 是一个资源导航网站，精选国内外优质网站，
-                                让每个人都能找到自己需要的资源。如果你有比较好的资源，可以通过下方地址提供给我们。 */}
+                                ikushare 是一个资源导航网站，精选国内外优质网站，
+                                让每个人都能找到自己需要的资源。如果你有比较好的资源，可以通过下方地址提供给我们。
                             </Text>
                             <Text>
                             ikushare站点旨在记录自己工作、学习和生活点滴的同时，跟广大网友分享优质的互联网资源、软件工具以及实用的互联网小技巧。
