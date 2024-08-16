@@ -81,7 +81,6 @@ const Content = () => {
                                 {/* <a className="linkColor" href="https://github.com/afterwork-design/castalia">castalia | github</a> */}
                             </Text>
                             <Text>
-                                如果你有优质的资源推荐，请发送至邮箱即可
                                 邮箱地址:2697533527@qq.com
 {/*                                 <a className="linkColor" href="https://github.com/afterwork-design/castalia/issues?q=label%3A%E8%B5%84%E6%BA%90%E6%8E%A8%E8%8D%90+">github 上提交 issue</a> */}
                             </Text>
