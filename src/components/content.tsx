@@ -54,7 +54,7 @@ const Content = () => {
                     height="calc(100vh - 250px)"
                 >
                     <Box flexGrow={1} alignSelf="stretch" pt="100px">
-                        <H1 fontSize="16px" mb="15px">ikushare</H1>
+                        <H2 fontSize="16px" mb="15px">ikushare</H2>
                         <VStack alignItems="flex-start" fontSize="16px">
                             <Text>
 {/*                                 ikushare */}
