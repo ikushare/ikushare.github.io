@@ -88,7 +88,7 @@ const Content = () => {
                         </VStack>
                     </Box>
                     <Text color="#999999" fontSize="16px">
-                        <span>Copyright © 2021 iMyShare 保留所有权利 鄂ICP备2021015464号-4 </span>
+                        <span>Copyright © 2021 iMyShare 保留所有权利 鄂ICP备2xxxxxx号-4 </span>
                         {/* <a href="https://tangweijuan.com" target="_blank">Tang Weijuan</a>
                         <span> & Developed by </span>
                         <a href="https://pengfeixc.com" target="_blank">Wang Pengfei</a> */}
